@@ -35,7 +35,7 @@ while(True):
       frameno += 1
    else:
       break
-
+ 
 cap.release()
 cv2.destroyAllWindows()
 
